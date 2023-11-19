@@ -1,7 +1,3 @@
-# Md Raza Usmani
-*Graduate Student at [Technical University Munich](https://www.tum.de/)*
-\
-\
 [Github](https://github.com/MDRazaUsmani) / [LinkedIn](https://www.linkedin.com/in/raza-usmani/) 
 
 ### Skills
