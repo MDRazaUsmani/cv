@@ -1,7 +1,7 @@
 # Md Raza Usmani
-*Graduate Student at [Technical University Munich](https://www.tum.de/)*\
-[Github](https://github.com/MDRazaUsmani) / [LinkedIn](https://www.linkedin.com/in/raza-usmani/) 
+*Graduate Student at [Technical University Munich](https://www.tum.de/)*
 \
+[Github](https://github.com/MDRazaUsmani) / [LinkedIn](https://www.linkedin.com/in/raza-usmani/) 
 \
 A proactive & creative 28-year-old graduate student from Dhaka, Bangladesh, with 1+ year experience working with Design & Animation with great attention to detail.
 
@@ -31,7 +31,7 @@ shots for an [animated series.](https://www.imdb.com/title/tt14402938/episodes/?
 **Brand Designer | 3D Product Visualizer**\
 *Freelance | Jan 2020 - Sep 2020*
 - Understand and incorporate client’s requirements into work.
-- Works ranged from creating logos, digital marketing materials & small brand guides to product design and visualization in 3D.
+- Involved creating logos, digital marketing materials & small brand guides to product design and visualization in 3D.
 
 **Strategic Brand Visualizer @ Roop**\
 *Dhaka, Bangladesh | Feb 2019 - Jul 2019*
