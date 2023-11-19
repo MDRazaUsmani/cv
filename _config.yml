@@ -1,8 +1,4 @@
 theme: jekyll-theme-minimal
 title: Md Raza Usmani
 description: Graduate Student at TUM
-example: 'Several lines of text,\n
-··containing ''single quotes''. Escapes (like \n) don''t do anything.\n
-··\n
-··Newlines can be added by leaving a blank line.\n
-····Leading whitespace on lines is ignored.'\n
+
