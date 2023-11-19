@@ -1,2 +1,20 @@
 icons for:
-ps, ai, ae, maya, zbrush, blender, painter, designer, unity, keyshot, marmoset, python, c#, php, css, html 5, docker, github, gitlab
+- ps
+- ai
+- ae
+- maya
+- zbrush
+- blender
+- painter
+- designer
+- unity
+- keyshot
+- marmoset
+- python
+- c#
+- php
+- css
+- html 5
+- docker
+- github
+- gitlab
