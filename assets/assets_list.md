@@ -18,3 +18,4 @@ icons for:
 - docker
 - github
 - gitlab
+- oculus
