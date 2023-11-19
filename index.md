@@ -54,16 +54,16 @@ shots for an [animated series.](https://www.imdb.com/title/tt14402938/episodes/?
 
 --- 
 ## Education
-**Master in Informatics @ TUM**\
+**Master in Informatics @ [TUM](https://www.tum.de/en/)**\
 *Munich, Germany | 2021 - Present*
 - **Seminar** on _3D Machine Learning_: 3D Mesh Generation using Transformers
 - **Praktikum** on iLab2: Network Architecture, Security and Services
 - **Praktikum** on Intelligent Machine Programming using *Franka Emika Panda Tactile Robot*
 - **IDP** on Project Alba: Spanish Embroidery in VR
 
-**BSc in Computer Science @ Brac University**\
+**BSc in Computer Science @ [Brac University](https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering/bachelor-science-computer-science)**\
 _Dhaka, Bangladesh | 2014 - 2018 | CGPA 3.55_
-- **Publication** _“Hazard Reconnaissance Rover Using Raspberry Pi and Multiple Sensors"_, 2019 International Conference on Robotics, Electrical and Signal Processing Techniques (ICREST), 2019
+- **Publication** _“[Hazard Reconnaissance Rover Using Raspberry Pi and Multiple Sensors](https://ieeexplore.ieee.org/document/8644260)"_, 2019 International Conference on Robotics, Electrical and Signal Processing Techniques (ICREST), 2019
 
 **Advanced Levels @ Edexcel**\
 _Dhaka, Bangladesh | 2013 | CGPA 3.5_
@@ -77,13 +77,13 @@ _Dhaka, Bangladesh | 2012 | CGPA 4.0_
 _IELTS - IDP | Dhaka, Bangladesh | Jan 2021 | Overall 8.0 | CEFR Level C1_
 
 **Basics of 3D Character Animation**\
-_MVRK Lair | Dhaka, Bangladesh | Oct 2019_
+_[MVRK Lair](http://www.mvrk.tv/) | Dhaka, Bangladesh | Oct 2019_
 
 **Digital Sculpting for Video Games and Animation**\
-_MVRK Lair | Dhaka, Bangladesh | Dec 2017_
+_MVRK Lair| Dhaka, Bangladesh | Dec 2017_
 
 **CIW Web Design Specialist**\
-_New Horizons | Dhaka, Bangladesh | Sep 2014_
+_[New Horizons](https://dhaka.newhorizons.com/) | Dhaka, Bangladesh | Sep 2014_
 
 ---
 ## About
