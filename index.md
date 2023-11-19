@@ -21,7 +21,7 @@ A proactive & creative 28-year-old graduate student from Dhaka, Bangladesh, with
 *Munich, Germany | Apr 2023 - Sep 2023*
 - For the TUM interdisciplinary project.
 - Using Unity and Oculus VR.
-- Solo development of VR app aimed to preserve the Intangible Cultural Heritage of the Spanish Carbajalino Embroidery.
+- Solo development of a VR app aimed to preserve the Intangible Cultural Heritage of the Spanish Carbajalino Embroidery.
 - Creating 2D and 3D assets and level design.
   
 ## Design Experience
@@ -40,40 +40,40 @@ shots for an [animated series.](https://www.imdb.com/title/tt14402938/episodes/?
 - Research and create elaborate brand guidelines.
 - Conduct branding presentations and meetings.
 
-**Game Artist (Intern) @ Appnometry Ltd.**
+**Game Artist (Intern) @ Appnometry Ltd.**\
 *Dhaka, Bangladesh | Dec 2018 - Jan 2019*
 - Created 3D characters and props fro android based games.
 - Handled miscellaneous design tasks.
 
 --- 
 ## Education
-**Master in Informatics @ TUM**
+**Master in Informatics @ TUM**\
 *Munich, Germany | 2021 - Present*
 - **Seminar** on _3D Machine Learning_: 3D Mesh Generation using Transformers
 - **Praktikum** on iLab2: Network Architecture, Security and Services
 - **Praktikum** on Intelligent Machine Programming using *Franka Emika Panda Tactile Robot*
 - **IDP** on Project Alba: Spanish Embroidery in VR
 
-**BSc in Computer Science@ Brac University**
+**BSc in Computer Science@ Brac University**\
 _Dhaka, Bangladesh | 2014 - 2018 | CGPA 3.55_
 - **Publication** _“Hazard Reconnaissance Rover Using Raspberry Pi and Multiple Sensors"_, 2019 International Conference on Robotics, Electrical and Signal Processing Techniques (ICREST), 2019
 
-**Advanced Levels @ Edexcel**
+**Advanced Levels @ Edexcel**\
 _Dhaka, Bangladesh | 2013 | CGPA 3.5_
 
-**Ordinary Levels @ Edexcel**
+**Ordinary Levels @ Edexcel**\
 _Dhaka, Bangladesh | 2012 | CGPA 4.0_
 
 --- 
 ## Certification
-**International English Language Testing System**
+**International English Language Testing System**\
 _IELTS - IDP | Dhaka, Bangladesh | Jan 2021 | Overall 8.0 | CEFR Level C1_
 
-**Basics of 3D Character Animation**
+**Basics of 3D Character Animation**\
 _MVRK Lair | Dhaka, Bangladesh | Oct 2019_
 
-**Digital Sculpting for Video Games and Animation**
+**Digital Sculpting for Video Games and Animation**\
 _MVRK Lair | Dhaka, Bangladesh | Dec 2017_
 
-**CIW Web Design Specialist**
+**CIW Web Design Specialist**\
 _New Horizons | Dhaka, Bangladesh | Sep 2014_
