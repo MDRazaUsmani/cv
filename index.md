@@ -3,6 +3,9 @@
 ### Skills
 `3D Design` |  `Graphic Design` |  `Game Development` |  `Web Development` |  `Animation` |  `Illustration` |  `Brand Identity` 
 
+### Research Interest
+`Computer Vision & SLAM` |  `Shader & Image Processing` |  `Quantum Computing` |  `AI in Vision` |  `...` 
+
 ### Proficiency
 
 **Programming:** C++, C#, Python, Java, HTML, CSS, PHP, GLSL\
