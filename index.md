@@ -38,7 +38,7 @@ shots for an [animated series.](https://www.imdb.com/title/tt14402938/episodes/?
 - Understand and incorporate client’s requirements into work.
 - Involved creating logos, digital marketing materials & small brand guides to product design and visualization in 3D.
 
-**Strategic Brand Visualizer @ Roop**\
+**Strategic Brand Visualizer @ [Roop](https://roopbd.com/)**\
 *Dhaka, Bangladesh | Feb 2019 - Jul 2019*
 - Research and create elaborate brand guidelines.
 - Conduct branding presentations and meetings.
