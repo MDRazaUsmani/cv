@@ -1,4 +1,4 @@
-[Github](https://github.com/MDRazaUsmani) / [LinkedIn](https://www.linkedin.com/in/raza-usmani/) / [Behance](https://www.behance.net/razausmani) / [Portfolio](assets/Portfolio-2022-Compressed.pdf)
+[Github](https://github.com/MDRazaUsmani) / [LinkedIn](https://www.linkedin.com/in/raza-usmani/) / [Behance](https://www.behance.net/razausmani) / [Portfolio](assets/portfolio-2022.pdf)
 
 ### Skills
 `3D Design` |  `Graphic Design` |  `Game Development` |  `Web Development` |  `Animation` |  `Illustration` |  `Brand Identity` 
