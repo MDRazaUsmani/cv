@@ -1,10 +1,12 @@
 # Md Raza Usmani
-*Graduate Student at Technical University Munich*
+*Graduate Student at [Technical University Munich](https://www.tum.de/)*\
+\
+A proactive & creative 28-year-old graduate student from Dhaka, Bangladesh, with 1+ year experience working with Design & Animation with great attention to detail.
 
-[Github](https://github.com/MDRazaUsmani) / [LinkedIn](https://www.linkedin.com/in/raza-usmani/)
+[Mail](raza.usmani@tum.de) / [Github](https://github.com/MDRazaUsmani) / [LinkedIn](https://www.linkedin.com/in/raza-usmani/)
 
-## Development Experience 
 --- 
+## Development Experience 
 **Web Developer (Student Assistant) @ TUM SoM**\
 *Munich, Germany | Aug 2022 - Present*
 - School portal development.
@@ -37,3 +39,25 @@ shots for an [animated series.](https://www.imdb.com/title/tt14402938/episodes/?
 *Dhaka, Bangladesh | Dec 2018 - Jan 2019*
 - Created 3D characters and props fro android based games.
 - Handled miscellaneous design tasks.
+
+--- 
+## Education
+**Master in Informatics @ TUM**
+*Munich, Germany | 2021 - Present*
+- **Seminar** on _3D Machine Learning_: 3D Mesh Generation using Transformers
+- **Praktikum** on iLab2: Network Architecture, Security and Services
+- **Praktikum** on Intelligent Machine Programming using *Franka Emika Panda Tactile Robot*
+- **IDP** on Project Alba: Spanish Embroidery in VR
+
+**BSc in Computer Science@ Brac University**
+_Dhaka, Bangladesh | 2014 - 2018 | CGPA 3.55_
+- **Publication** _“Hazard Reconnaissance Rover Using Raspberry Pi and Multiple Sensors"_, 2019 International Conference on Robotics, Electrical and Signal Processing Techniques (ICREST), 2019
+
+**Advanced Levels @ Edexcel**
+_Dhaka, Bangladesh | 2013 | CGPA 3.5_
+
+---
+**Ordinary Levels @ Edexcel**
+_Dhaka, Bangladesh | 2012 | CGPA 4.0_
+
+---
