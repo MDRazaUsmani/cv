@@ -4,7 +4,7 @@
 `3D Design` |  `Graphic Design` |  `Game Development` |  `Web Development` |  `Animation` |  `Illustration` |  `Brand Identity` 
 
 ### Research Interest
-`Computer Vision & SLAM` |  `Shader & Image Processing` |  `Quantum Computing` |  `AI in Vision` |  `...` 
+`Computer Vision & SLAM` |  `Shader & Image Processing` |  `Quantum Computing` |  `AI in Vision` |  `VR/AR` 
 
 ### Proficiency
 
@@ -61,7 +61,7 @@ shots for an [animated series.](https://www.imdb.com/title/tt14402938/episodes/?
 - **Praktikum** on Intelligent Machine Programming using *Franka Emika Panda Tactile Robot*
 - **IDP** on Project Alba: Spanish Embroidery in VR
 
-**BSc in Computer Science@ Brac University**\
+**BSc in Computer Science @ Brac University**\
 _Dhaka, Bangladesh | 2014 - 2018 | CGPA 3.55_
 - **Publication** _“Hazard Reconnaissance Rover Using Raspberry Pi and Multiple Sensors"_, 2019 International Conference on Robotics, Electrical and Signal Processing Techniques (ICREST), 2019
 
