@@ -24,7 +24,8 @@
 - For the TUM interdisciplinary project.
 - Using Unity and Oculus VR.
 - Solo development of a VR app aimed to preserve the Intangible Cultural Heritage of the Spanish Carbajalino Embroidery.
-- Creating 2D/3D assets and level design.
+- Creating 2D/3D/UI assets, level and UX design.
+- Implementing Text-to-Speech tools for audio.
   
 ## Design Experience
 **Junior Character Animator @ [Auleek](https://auleek.com/)**\
