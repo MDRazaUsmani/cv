@@ -9,7 +9,8 @@
 
 ### Proficiency
 
-**Programming:** `C++`, `C#`, `Python`, `Java`, `HTML`, `CSS`, `PHP`
+**Programming:** C++, C#, Python, Java, HTML, CSS, PHP\
+**Miscellaneous:** Docker, Git, Markdown, FCI - Franka Interface
 
 --- 
 ## Development Experience 
@@ -23,7 +24,7 @@
 - For the TUM interdisciplinary project.
 - Using Unity and Oculus VR.
 - Solo development of a VR app aimed to preserve the Intangible Cultural Heritage of the Spanish Carbajalino Embroidery.
-- Creating 2D and 3D assets and level design.
+- Creating 2D/3D assets and level design.
   
 ## Design Experience
 **Junior Character Animator @ [Auleek](https://auleek.com/)**\
