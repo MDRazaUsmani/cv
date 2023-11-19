@@ -64,5 +64,16 @@ _Dhaka, Bangladesh | 2013 | CGPA 3.5_
 **Ordinary Levels @ Edexcel**
 _Dhaka, Bangladesh | 2012 | CGPA 4.0_
 
----
- 
+--- 
+## Certification
+**International English Language Testing System**
+_IELTS - IDP | Dhaka, Bangladesh | Jan 2021 | Overall 8.0 | CEFR Level C1_
+
+**Basics of 3D Character Animation**
+_MVRK Lair | Dhaka, Bangladesh | Oct 2019_
+
+**Digital Sculpting for Video Games and Animation**
+_MVRK Lair | Dhaka, Bangladesh | Dec 2017_
+
+**CIW Web Design Specialist**
+_New Horizons | Dhaka, Bangladesh | Sep 2014_
