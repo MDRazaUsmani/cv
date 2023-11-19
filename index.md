@@ -1,3 +1,3 @@
-theme: jekyll-theme-minimal
-title: Testq1
+
+title: Test1
 description: Raza Usmani's CV
