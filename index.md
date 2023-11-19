@@ -9,7 +9,7 @@
 **2D Design:** Gimp, Adobe Photoshop, Illustrator, After Effects\
 **3D Design:** Maya, Blender, Zbrush, Substance Designer and Painter\
 **Game Development:** Unity, Oculus VR\
-**Render Engines:** Keyshot, Marmoset\
+**Render Engines:** Keyshot, Marmoset Toolbag\
 **Miscellaneous:** Docker, Git, Markdown, FCI - Franka Interface
 
 --- 
