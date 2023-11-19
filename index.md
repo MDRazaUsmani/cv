@@ -3,9 +3,6 @@
 \
 \
 [Github](https://github.com/MDRazaUsmani) / [LinkedIn](https://www.linkedin.com/in/raza-usmani/) 
-\
-\
-A proactive & creative 28-year-old graduate student from Dhaka, Bangladesh, with 1+ year experience working with Design & Animation with great attention to detail.
 
 ### Skills
 `3D Design` |  `Graphic Design` |  `Game Development` |  `Web Development` |  `Animation` |  `Illustration` |  `Brand Identity` 
@@ -77,3 +74,10 @@ _MVRK Lair | Dhaka, Bangladesh | Dec 2017_
 
 **CIW Web Design Specialist**\
 _New Horizons | Dhaka, Bangladesh | Sep 2014_
+
+---
+## About
+A proactive & creative 28-year-old graduate student from Dhaka, Bangladesh, with 1+ year experience working with Design & Animation with great attention to detail.
+
+### Interests and Hobbies
+`Arts & Crafts` |  `Nature & Hiking` |  `Video & Tabletop Games` |  `Extreme Sports` |  `Cooking` 
