@@ -9,7 +9,7 @@
 
 ### Proficiency
 
-**Programming:** `C++`, `C#`, `Python`, `Java`, `HTML`, `CSS`, `PHP`\
+**Programming:** `C++`, `C#`, `Python`, `Java`, `HTML`, `CSS`, `PHP`
 
 --- 
 ## Development Experience 
