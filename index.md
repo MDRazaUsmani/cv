@@ -7,10 +7,9 @@
 ### Skills
 `3D Design` |  `Graphic Design` |  `Game Development` |  `Web Development` |  `Animation` |  `Illustration` |  `Brand Identity` 
 
-### Languages
+### Proficiency
 
 **Programming:** `C++`, `C#`, `Python`, `Java`, `HTML`, `CSS`, `PHP`\
-**Communicative:** English(C1), French(A1), German(A1), Bengali(Native)
 
 --- 
 ## Development Experience 
@@ -83,6 +82,9 @@ _New Horizons | Dhaka, Bangladesh | Sep 2014_
 ---
 ## About
 A proactive & creative 28-year-old graduate student from Dhaka, Bangladesh, with 1+ year experience working with Design & Animation with great attention to detail.
+
+### Languages
+`English (C1)` |  `French (A1)` |  `German(A1)` |  `Bengali(Native)` 
 
 ### Interests and Hobbies
 `Arts & Crafts` |  `Nature & Hiking` |  `Video & Tabletop Games` |  `Extreme Sports` |  `Cooking` 
