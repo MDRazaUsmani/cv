@@ -3,7 +3,7 @@
 \
 A proactive & creative 28-year-old graduate student from Dhaka, Bangladesh, with 1+ year experience working with Design & Animation with great attention to detail.
 
-[Mail](raza.usmani@tum.de) / [Github](https://github.com/MDRazaUsmani) / [LinkedIn](https://www.linkedin.com/in/raza-usmani/)
+[Github](https://github.com/MDRazaUsmani) / [LinkedIn](https://www.linkedin.com/in/raza-usmani/)
 
 --- 
 ## Development Experience 
