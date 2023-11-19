@@ -3,7 +3,12 @@
 \
 A proactive & creative 28-year-old graduate student from Dhaka, Bangladesh, with 1+ year experience working with Design & Animation with great attention to detail.
 
+### Skills
+`3D Design` `Graphic Design` `Game Development` `Web Development` `Animation` `Illustration` `Brand Identity` 
+\
+\
 [Github](https://github.com/MDRazaUsmani) / [LinkedIn](https://www.linkedin.com/in/raza-usmani/)
+
 
 --- 
 ## Development Experience 
@@ -56,8 +61,8 @@ _Dhaka, Bangladesh | 2014 - 2018 | CGPA 3.55_
 **Advanced Levels @ Edexcel**
 _Dhaka, Bangladesh | 2013 | CGPA 3.5_
 
----
 **Ordinary Levels @ Edexcel**
 _Dhaka, Bangladesh | 2012 | CGPA 4.0_
 
 ---
+ 
