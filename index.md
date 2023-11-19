@@ -90,7 +90,7 @@ _[New Horizons](https://dhaka.newhorizons.com/) | Dhaka, Bangladesh | Sep 2014_
 A proactive & creative 28-year-old graduate student from Dhaka, Bangladesh, with 1+ year experience working with Design & Animation with great attention to detail.
 
 ### Languages
-`English (C1)` |  `French (A1)` |  `German(A1)` |  `Bengali(Native)` 
+`English(C1)` |  `French(A1)` |  `German(A1)` |  `Bengali(Native)` 
 
 ### Interests and Hobbies
 `Arts & Crafts` |  `Nature & Hiking` |  `Video & Tabletop Games` |  `Extreme Sports` |  `Cooking` 
