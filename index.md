@@ -3,7 +3,8 @@
 
 [Github](https://github.com/MDRazaUsmani) / [LinkedIn](https://www.linkedin.com/in/raza-usmani/)
 
-## Development Experience
+## Development Experience 
+--- 
 **Web Developer (Student Assistant) @ TUM SoM**\
 *Munich, Germany | Aug 2022 - Present*
 - School portal development.
@@ -11,8 +12,8 @@
 
 **VR App Developer - Project Alba @ TUM**\
 *Munich, Germany | Apr 2023 - Sep 2023*
-- For the TUM interdisciplinary project
-- Using Unity and Oculus VR
+- For the TUM interdisciplinary project.
+- Using Unity and Oculus VR.
 - Solo development of VR app aimed to preserve the Intangible Cultural Heritage of the Spanish Carbajalino Embroidery.
 - Creating 2D and 3D assets and level design.
   
@@ -32,3 +33,7 @@ shots for an [animated series.](https://www.imdb.com/title/tt14402938/episodes/?
 - Research and create elaborate brand guidelines.
 - Conduct branding presentations and meetings.
 
+**Game Artist (Intern) @ Appnometry Ltd.**
+*Dhaka, Bangladesh | Dec 2018 - Jan 2019*
+- Created 3D characters and props fro android based games.
+- Handled miscellaneous design tasks.
