@@ -7,6 +7,11 @@
 ### Skills
 `3D Design` |  `Graphic Design` |  `Game Development` |  `Web Development` |  `Animation` |  `Illustration` |  `Brand Identity` 
 
+### Languages
+
+**Programming:** `C++`, `C#`, `Python`, `Java`, `HTML`, `CSS`, `PHP`\
+**Communicative:** English(C1), French(A1), German(A1), Bengali(Native)
+
 --- 
 ## Development Experience 
 **Web Developer (Student Assistant) @ TUM SoM**\
