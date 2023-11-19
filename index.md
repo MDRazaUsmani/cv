@@ -1,11 +1,11 @@
-[Github](https://github.com/MDRazaUsmani) / [LinkedIn](https://www.linkedin.com/in/raza-usmani/) 
+[Github](https://github.com/MDRazaUsmani) / [LinkedIn](https://www.linkedin.com/in/raza-usmani/) / [Behance](https://www.behance.net/razausmani)
 
 ### Skills
 `3D Design` |  `Graphic Design` |  `Game Development` |  `Web Development` |  `Animation` |  `Illustration` |  `Brand Identity` 
 
 ### Proficiency
 
-**Programming:** C++, C#, Python, Java, HTML, CSS, PHP\
+**Programming:** C++, C#, Python, Java, HTML, CSS, PHP, GLSL\
 **2D Design:** Gimp, Adobe Photoshop, Illustrator, After Effects\
 **3D Design:** Maya, Blender, Zbrush, Substance Designer and Painter\
 **Game Development:** Unity, Oculus VR\
