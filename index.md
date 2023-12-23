@@ -23,7 +23,7 @@
 - School portal development.
 - Creating and updating Wiki pages for TUM School of Management.
 
-**VR App Developer - Project Alba @ TUM**\
+**VR App Developer - [Project Alba](https://github.com/MDRazaUsmani/ProjectAlbav1) @ TUM**\
 *Munich, Germany | Apr 2023 - Sep 2023*
 - For the TUM interdisciplinary project.
 - Using Unity and Oculus VR.
