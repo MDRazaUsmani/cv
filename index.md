@@ -18,7 +18,7 @@
 
 --- 
 ## Development Experience 
-**Web Developer (Student Assistant) @ TUM SoM**\
+**Web Developer (Working Student) @ TUM SoM**\
 *Munich, Germany | Aug 2022 - Present*
 - School portal development.
 - Creating and updating Wiki pages for TUM School of Management.
