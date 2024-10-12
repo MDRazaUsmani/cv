@@ -49,7 +49,7 @@ shots for an [animated series.](https://www.imdb.com/title/tt14402938/episodes/?
 
 **Game Artist (Intern) @ Appnometry Ltd.**\
 *Dhaka, Bangladesh | Dec 2018 - Jan 2019*
-- Created 3D characters and props fro android based games.
+- Created 3D characters and props for android based games.
 - Handled miscellaneous design tasks.
 
 --- 
@@ -87,7 +87,7 @@ _[New Horizons](https://dhaka.newhorizons.com/) | Dhaka, Bangladesh | Sep 2014_
 
 ---
 ## About
-A proactive & creative 28-year-old graduate student from Dhaka, Bangladesh, with 1+ year experience working with Design & Animation with great attention to detail.
+A proactive & creative 29-year-old graduate student from Dhaka, Bangladesh, with 1+ year experience working with Design & Animation with great attention to detail.
 
 ### Languages
 `English(C1)` |  `French(A1)` |  `German(A1)` |  `Bengali(Native)` 
