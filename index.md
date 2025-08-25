@@ -16,7 +16,6 @@
 **Task Collaboration:** GitLab Kanban Board, Miro
 **Miscellaneous:** Docker, Git, Markdown, FCI - Franka Interface, LaTeX
 
-
 --- 
 ## Development Experience 
 **VR App Developer - Master's Thesis @ TUM**\
