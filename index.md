@@ -1,7 +1,7 @@
 [Github](https://github.com/MDRazaUsmani) / [Behance](https://www.behance.net/razausmani) / [Portfolio](assets/portfolio-2022.pdf)
 
 ### Skills
-`3D Design` |  `Graphic Design` |  `Game Development` |  `Web Development` |  `Animation` |  `Illustration` |  `Brand Identity` 
+`3D Design` |  `Graphic Design` |  `Game Development` |  `Web Development` |  `Animation` |  `Illustration` |  `Brand Identity` | `VR Development`
 
 ### Research Interest
 `Computer Vision & SLAM` |  `Shader & Image Processing` |  `Quantum Computing` |  `AI in Vision` |  `VR/AR` 
@@ -13,15 +13,27 @@
 **3D Design:** Maya, Blender, Zbrush, Substance Designer and Painter\
 **Game Development:** Unity, Oculus VR\
 **Render Engines:** Keyshot, Marmoset Toolbag\
-**Miscellaneous:** Docker, Git, Markdown, FCI - Franka Interface
+**Task Collaboration:** GitLab Kanban Board, Miro
+**Miscellaneous:** Docker, Git, Markdown, FCI - Franka Interface, LaTeX
 
 
 --- 
 ## Development Experience 
+**VR App Developer - Master's Thesis @ TUM**\
+*Munich, Germany | Jan 2025 - Jun 2025*
+- For the TUM interdisciplinary project.
+- Using Unity, Quest 2 VR, GPT-4o.
+- Solo development of a VR app to test the Image/Gesture recognition capabilities of LLM.
+- Creating 2D/3D/UI assets, level and UX design.
+- Using OpenAI Chat and STT API.
+  
 **Web Developer (Working Student) @ TUM SoM**\
 *Munich, Germany | Aug 2022 - Present*
-- School portal development.
+- [Koinon](https://www.koinon.tum.de) portal development.
+- Leading and collaborating with Agile subteams to develop high-priority modules.
 - Creating and updating Wiki pages for TUM School of Management.
+- Adopting Kanban task management, MVC design architecture
+- Organising visual and text based developer and end user documentation.
 
 **VR App Developer - [Project Alba](https://github.com/MDRazaUsmani/ProjectAlbav1) @ TUM**\
 *Munich, Germany | Apr 2023 - Sep 2023*
@@ -56,10 +68,11 @@ shots for an [animated series.](https://www.imdb.com/title/tt14402938/episodes/?
 ## Education
 **Master in Informatics @ [TUM](https://www.tum.de/en/)**\
 *Munich, Germany | 2021 - Present*
+- **Thesis** on _VR/HCI/AI_: Evaluating the Efficiency of Human-AI Interaction in Virtual Reality using Foundation Models
 - **Seminar** on _3D Machine Learning_: 3D Mesh Generation using Transformers
-- **Praktikum** on iLab2: Network Architecture, Security and Services
+- **Praktikum** on _iLab2_: Network Architecture, Security and Services
 - **Praktikum** on Intelligent Machine Programming using *Franka Emika Panda Tactile Robot*
-- **IDP** on Project Alba: Spanish Embroidery in VR
+- **IDP** on _Project Alba_: Spanish Embroidery in VR
 
 **BSc in Computer Science @ [Brac University](https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering/bachelor-science-computer-science)**\
 _Dhaka, Bangladesh | 2014 - 2018 | CGPA 3.55_
