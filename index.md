@@ -86,8 +86,6 @@ _MVRK Lair| Dhaka, Bangladesh | Dec 2017_
 _[New Horizons](https://dhaka.newhorizons.com/) | Dhaka, Bangladesh | Sep 2014_
 
 ---
-## About
-A proactive & creative 29-year-old graduate student from Dhaka, Bangladesh, with 1+ year experience working with Design & Animation with great attention to detail.
 
 ### Languages
 `English(C1)` |  `French(A1)` |  `German(A1)` |  `Bengali(Native)` 
