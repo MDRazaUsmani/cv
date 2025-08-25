@@ -21,7 +21,6 @@
 ## Development Experience 
 **VR App Developer - Master's Thesis @ TUM**\
 *Munich, Germany | Jan 2025 - Jun 2025*
-- For the TUM interdisciplinary project.
 - Using Unity, Quest 2 VR, GPT-4o.
 - Solo development of a VR app to test the Image/Gesture recognition capabilities of LLM.
 - Creating 2D/3D/UI assets, level and UX design.
