@@ -13,7 +13,7 @@
 **3D Design:** Maya, Blender, Zbrush, Substance Designer and Painter\
 **Game Development:** Unity, Oculus VR\
 **Render Engines:** Keyshot, Marmoset Toolbag\
-**Task Collaboration:** GitLab Kanban Board, Miro
+**Task Collaboration:** GitLab Kanban Board, Miro\
 **Miscellaneous:** Docker, Git, Markdown, FCI - Franka Interface, LaTeX
 
 --- 
