@@ -65,7 +65,7 @@ shots for an [animated series.](https://www.imdb.com/title/tt14402938/episodes/?
 --- 
 ## Education
 **Master in Informatics @ [TUM](https://www.tum.de/en/)**\
-*Munich, Germany | 2021 - Present*
+*Munich, Germany | Apr 2022 - Aug 2025*
 - **Thesis** on _VR/HCI/AI_: Evaluating the Efficiency of Human-AI Interaction in Virtual Reality using Foundation Models
 - **Seminar** on _3D Machine Learning_: 3D Mesh Generation using Transformers
 - **Praktikum** on _iLab2_: Network Architecture, Security and Services
