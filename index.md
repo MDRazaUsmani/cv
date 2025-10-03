@@ -70,7 +70,7 @@ shots for an [animated series.](https://www.imdb.com/title/tt14402938/episodes/?
 - **Seminar** on _3D Machine Learning_: 3D Mesh Generation using Transformers
 - **Praktikum** on _iLab2_: Network Architecture, Security and Services
 - **Praktikum** on Intelligent Machine Programming using *Franka Emika Panda Tactile Robot*
-- **IDP** on _Project Alba_: Spanish Embroidery in VR
+- **IDP** on [_Project Alba_](https://artisanxr.edu.sot.tum.de/ICH.html): Spanish Embroidery in VR 
 
 **BSc in Computer Science @ [Brac University](https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering/bachelor-science-computer-science)**\
 _Dhaka, Bangladesh | 2014 - 2018 | CGPA 3.55_
