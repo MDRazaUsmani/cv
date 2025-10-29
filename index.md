@@ -12,7 +12,7 @@
 **2D Design:** Gimp, Adobe Photoshop, Illustrator, After Effects\
 **3D Design:** Maya, Blender, Zbrush, Substance Designer and Painter\
 **Game Development:** Unity, Oculus VR\
-**Render Engines:** Keyshot, Marmoset Toolbag\
+**Render Engines:** Keyshot, Arnold, V-Ray, Cycles/Eevee, Marmoset Toolbag\
 **Task Collaboration:** GitLab Kanban Board, Miro\
 **Miscellaneous:** Docker, Git, Markdown, FCI - Franka Interface, LaTeX
 
@@ -85,7 +85,7 @@ _Dhaka, Bangladesh | 2012 | CGPA 4.0_
 --- 
 ## Certification
 **International English Language Testing System**\
-_IELTS - IDP | Dhaka, Bangladesh | Jan 2021 | Overall 8.0 | CEFR Level C1_
+_IELTS - IDP | Dhaka, Bangladesh | Jan 2021 | Overall 8.5 | CEFR Level C2_
 
 **Basics of 3D Character Animation**\
 _[MVRK Lair](http://www.mvrk.tv/) | Dhaka, Bangladesh | Oct 2019_
@@ -99,7 +99,7 @@ _[New Horizons](https://dhaka.newhorizons.com/) | Dhaka, Bangladesh | Sep 2014_
 ---
 
 ### Languages
-`English(C1)` |  `French(A1)` |  `German(A1)` |  `Bengali(Native)` 
+`English(C2)` |  `French(DELF A1)` |  `German(B1 - Learning)` |  `Bengali(Native)` 
 
 ### Interests and Hobbies
 `Arts & Crafts` |  `Nature & Hiking` |  `Video & Tabletop Games` |  `Extreme Sports` |  `Cooking` 
