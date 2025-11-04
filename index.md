@@ -10,28 +10,31 @@
 
 **Programming:** C++, C#, Python, Java, HTML, CSS, PHP, GLSL\
 **2D Design:** Gimp, Adobe Photoshop, Illustrator, After Effects\
-**3D Design:** Maya, Blender, Zbrush, Substance Designer and Painter\
+**UI/UX/Prototyping:** Figma, Spline\
+**3D Design:** 3DS Max, Maya, Blender, Zbrush, Substance Designer and Painter\
 **Game Development:** Unity, Oculus VR\
 **Render Engines:** Keyshot, Arnold, V-Ray, Cycles/Eevee, Marmoset Toolbag\
-**Task Collaboration:** GitLab Kanban Board, Miro\
+**Task Collaboration:** GitLab Kanban, Miro\
 **Miscellaneous:** Docker, Git, Markdown, FCI - Franka Interface, LaTeX
 
 --- 
 ## Development Experience 
+
+**Web Developer (Working Student) @ TUM SoM**\
+*Munich, Germany | Aug 2022 - Sep 2025*
+- [Koinon](https://koinon.tum.de/) portal development.
+- Leading and collaborating with Agile subteams to develop high-priority modules.
+- Creating and updating Wiki pages for TUM School of Management.
+- Adopting Kanban task management, MVC design architecture
+- Organising visual and text based developer and end user documentation.
+  
 **VR App Developer - Master's Thesis @ TUM**\
 *Munich, Germany | Jan 2025 - Jun 2025*
 - Using Unity, Quest 2 VR, GPT-4o.
 - Solo development of a VR app to test the Image/Gesture recognition capabilities of LLM.
 - Creating 2D/3D/UI assets, level and UX design.
 - Using OpenAI Chat and STT API.
-  
-**Web Developer (Working Student) @ TUM SoM**\
-*Munich, Germany | Aug 2022 - Present*
-- [Koinon](https://koinon.tum.de/) portal development.
-- Leading and collaborating with Agile subteams to develop high-priority modules.
-- Creating and updating Wiki pages for TUM School of Management.
-- Adopting Kanban task management, MVC design architecture
-- Organising visual and text based developer and end user documentation.
+- Researching, creating and conducting user studies on 10+ students
 
 **VR App Developer - [Project Alba](https://github.com/MDRazaUsmani/ProjectAlbav1) @ TUM**\
 *Munich, Germany | Apr 2023 - Sep 2023*
@@ -44,28 +47,24 @@
 ## Design Experience
 **Junior Character Animator @ [Auleek](https://auleek.com/)**\
 *Dhaka, Bangladesh | Oct 2020 - Jun 2021*
-- Cooperate with a team of animators to animate characters in different 
-shots for an [animated series.](https://www.imdb.com/title/tt14402938/episodes/?ref_=tt_eps_sm)
+- Cooperate with the team to work on secondary character animations in different 
+shots for an animated series - [Tesla Note](https://www.imdb.com/title/tt14402938/episodes/?ref_=tt_eps_sm)
 
 **Brand Designer | 3D Product Visualizer**\
-*Freelance | Jan 2020 - Sep 2020*
+*Freelance | Sep 2019 - Sep 2020*
 - Understand and incorporate client’s requirements into work.
-- Involved creating logos, digital marketing materials & small brand guides to product design and visualization in 3D.
+- Creating design and marketing materials, small brand guidelines, product design and visualization in 3D.
 
 **Strategic Brand Visualizer @ [Roop](https://roopbd.com/)**\
 *Dhaka, Bangladesh | Feb 2019 - Jul 2019*
 - Research and create elaborate brand guidelines.
+- Experience with working in advertising and branding agency.
 - Conduct branding presentations and meetings.
-
-**Game Artist (Intern) @ Appnometry Ltd.**\
-*Dhaka, Bangladesh | Dec 2018 - Jan 2019*
-- Created 3D characters and props for android based games.
-- Handled miscellaneous design tasks.
 
 --- 
 ## Education
 **Master in Informatics @ [TUM](https://www.tum.de/en/)**\
-*Munich, Germany | Apr 2022 - Aug 2025*
+_Munich, Germany | Apr 2022 - Aug 2025 | ECTS 2.4_
 - **Thesis** on _VR/HCI/AI_: Evaluating the Efficiency of Human-AI Interaction in Virtual Reality using Foundation Models
 - **Seminar** on _3D Machine Learning_: 3D Mesh Generation using Transformers
 - **Praktikum** on _iLab2_: Network Architecture, Security and Services
@@ -73,7 +72,7 @@ shots for an [animated series.](https://www.imdb.com/title/tt14402938/episodes/?
 - **IDP** on [_Project Alba_](https://artisanxr.edu.sot.tum.de/ICH.html): Spanish Embroidery in VR 
 
 **BSc in Computer Science @ [Brac University](https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering/bachelor-science-computer-science)**\
-_Dhaka, Bangladesh | 2014 - 2018 | CGPA 3.55_
+_Dhaka, Bangladesh | 2014 - 2018 | CGPA 3.55 / ECTS 1.7_
 - **Publication** _“[Hazard Reconnaissance Rover Using Raspberry Pi and Multiple Sensors](https://ieeexplore.ieee.org/document/8644260)"_, 2019 International Conference on Robotics, Electrical and Signal Processing Techniques (ICREST), 2019
 
 **Advanced Levels @ Edexcel**\
@@ -99,7 +98,7 @@ _[New Horizons](https://dhaka.newhorizons.com/) | Dhaka, Bangladesh | Sep 2014_
 ---
 
 ### Languages
-`English(C2)` |  `French(DELF A1)` |  `German(B1 - Learning)` |  `Bengali(Native)` 
+`English(CEFR C2)` |  `French(DELF A1)` |  `German(B1 - Actively Improving)` |  `Bengali(Native)` 
 
 ### Interests and Hobbies
 `Arts & Crafts` |  `Nature & Hiking` |  `Video & Tabletop Games` |  `Extreme Sports` |  `Cooking` 
