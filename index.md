@@ -25,9 +25,14 @@
 *Munich, Germany | Aug 2022 - Sep 2025*
 - [Koinon](https://koinon.tum.de/) portal development.
 - Leading and collaborating with Agile subteams to develop high-priority modules.
-- Creating and updating Wiki pages for TUM School of Management.
+- Creating and maintaining Wiki pages for TUM School of Management.
 - Adopting Kanban task management, MVC design architecture
-- Organising visual and text based developer and end user documentation.
+- Documenting old and newly developed features for end-users in the project Wiki and
+creating a detailed database connection map in Miro to support the developers’
+understanding of data flows and dependencies.
+- Integrating CAMPUSOnline’s Public REST APIs, enabling the retrieval of essential data
+for the seamless functioning of several modules and strengthening the connection
+between the koinon system and the university's infrastructure.
   
 **VR App Developer - Master's Thesis @ TUM**\
 *Munich, Germany | Jan 2025 - Jun 2025*
