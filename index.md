@@ -24,10 +24,10 @@
 **Web Developer (Working Student) @ TUM SoM**\
 *Munich, Germany | Aug 2022 - Sep 2025*
 - [Koinon](https://koinon.tum.de/) portal development.
-- Leading and collaborating with Agile subteams to develop high-priority modules.
-- Creating and maintaining Wiki pages for TUM School of Management.
+- Leading and collaborating with Agile subteams to develop high-priority modules: Enhancing the “Abschlussarbeit / Thesis” module as the team’s primary
+developer for new features
 - Adopting Kanban task management, MVC design architecture
-- Documenting old and newly developed features for end-users in the project Wiki and
+- Creating and maintaining Wiki pages for TUM School of Management: Documenting old and newly developed features for end-users in the project Wiki and
 creating a detailed database connection map in Miro to support the developers’
 understanding of data flows and dependencies.
 - Integrating CAMPUSOnline’s Public REST APIs, enabling the retrieval of essential data
