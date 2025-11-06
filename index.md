@@ -14,7 +14,7 @@
 **3D Design:** 3DS Max, Maya, Blender, Zbrush, Substance Designer and Painter\
 **UI/UX/Prototyping:** Figma, Spline\
 **Game Development:** Unity, Oculus VR\
-**Web Development:** HTML, CSS, PHP, JavaScrpit, MySQL\
+**Web Development:** HTML, CSS, PHP, JavaScript, MySQL\
 **Render Engines:** Keyshot, Arnold, V-Ray, Cycles/Eevee, Marmoset Toolbag\
 **Task Collaboration:** GitLab Kanban, Miro\
 **Miscellaneous:** Docker, Git, Markdown, FCI - Franka Interface, LaTeX
