@@ -9,11 +9,12 @@
 
 ### Proficiency
 
-**Programming:** C++, C#, Python, Java, HTML, CSS, PHP, GLSL\
+**Programming:** C++, C#, Python, Java, GLSL\
 **2D Design:** Gimp, Adobe Photoshop, Illustrator, After Effects\
-**UI/UX/Prototyping:** Figma, Spline\
 **3D Design:** 3DS Max, Maya, Blender, Zbrush, Substance Designer and Painter\
+**UI/UX/Prototyping:** Figma, Spline\
 **Game Development:** Unity, Oculus VR\
+**Web Development:** HTML, CSS, PHP, JavaScrpit, MySQL\
 **Render Engines:** Keyshot, Arnold, V-Ray, Cycles/Eevee, Marmoset Toolbag\
 **Task Collaboration:** GitLab Kanban, Miro\
 **Miscellaneous:** Docker, Git, Markdown, FCI - Franka Interface, LaTeX
